@@ -1,0 +1,16 @@
+.head{
+	background-color: red;
+}
+
+.jumbotron{
+	background-color: green;
+	color: black;
+}
+
+.page-header{
+	color: green;
+
+}
+.content{
+	margin-top: 50px;
+}
